@@ -1,6 +1,8 @@
 # flutter_application_1
 
-A new Flutter project.
+My first flutter project trying to build a "Login" website.
+
+For the people who are new for the Flutter, there is a description for the newbies dowbelow :)
 
 ## Getting Started
 
