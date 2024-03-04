@@ -2,7 +2,7 @@
 
 My first flutter project trying to build a "Login" website.
 
-For the people who are new for the Flutter, there is a description for the newbies dowbelow :)
+For the people who are new for the Flutter, there is a description for the newbies downbelow :)
 
 ## Getting Started
 
